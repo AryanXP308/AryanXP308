@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm ARYAN</h1>
-<h3 align="center">A passionate web developer from India.</h3>
+<img src="hi i am aryan"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanxp308&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxp308" /> </p>
 
