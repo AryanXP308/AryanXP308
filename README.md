@@ -1,4 +1,4 @@
-<center><img src="banner.gif" align="center" width="600"></img></center>
+<center><img src="banner.mp4" align="center" width="600"></img></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanxp308&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxp308" /> </p>
 
