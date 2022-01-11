@@ -1,6 +1,4 @@
-<video autoplay>
-  <source src="banner.mp4" type="video/mp4">
-</video>
+<img src="banner.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanxp308&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxp308" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanxp308" alt="aryanxp308" /></a> </p>
