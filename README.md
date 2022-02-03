@@ -6,13 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/aryanxp308" target="blank"><img src="https://img.shields.io/twitter/follow/aryanxp308?logo=twitter&style=for-the-badge" alt="aryanxp308" /></a> </p>
 
+- I AM ARYAN FROM INDIA AND DOING CODING FOR MY PART TIME I START DOING CODING SINCE 2021. I MAKE WEBSITE FOR PEOPLE AND ALSO I AM MAKING MY OWN WEBSITE WHICH WILL CARRY `GAMING`, `CHAT`, `STREMING` RELATED TOPICS YOU CAN ALSO SEE THE INCOMPLETE FACE OF MY WEBSITE AND ALSO CAN SIGN IN BUT AFTER SOMETIME DATABASE WILL FORGET YOU.BY THE WAY YOU CAN FOLLOW MY SOCIAL MEDIA I'D
+	* <a href="https://discord.gg/https://discord.gg/nSCTtkh2NW">DISCORD SERVER</a> 
+  * <a href="https://game-onds.github.io/gameon/">MY WEBSITE</a>
+  * I ALSO ENJOY MY LIFE
+      * **FREEFIRE I'D** `Ameerka2724k`
+      * **XBOX MINECRAFT GAMETAG** `aryanxp308` 
 - 🔭 I’m currently working on [Game on DS/GAMEONDS](https://github.com/Game-onds/GameonDS)
 
-- 🌱 I’m currently learning **react.**
+- 🌱 I’m currently learning **react, C++**
 
 - 👯 I’m looking to collaborate on [freefirebotweb/freefirebotweb](https://github.com/freefirebotweb/freefirebotweb)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON**
 
 - 📫 How to reach me **aryanwasamkar@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
