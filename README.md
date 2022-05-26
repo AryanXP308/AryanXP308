@@ -14,11 +14,11 @@
       * **XBOX MINECRAFT GAMETAG** `aryanxp308` 
 - 🔭 I’m currently working on [Game on DS/GAMEONDS](https://github.com/Game-onds/GameonDS)
 
-- 🌱 I’m currently learning **react, C++**
+- 🌱 I’m currently learning **I don't know**
 
 - 👯 I’m looking to collaborate on [freefirebotweb/freefirebotweb](https://github.com/freefirebotweb/freefirebotweb)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON, RUBY**
 
 - * 📫 How to reach me **aryanwasamkar@gmail.com**
   * Our join my  ***<a href="https://discord.gg/https://discord.gg/nSCTtkh2NW">DISCORD SERVER</a>***
