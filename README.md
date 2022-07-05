@@ -9,7 +9,7 @@
 	* <a href="https://discord.gg/https://discord.gg/nSCTtkh2NW">DISCORD SERVER</a> 
   * <a href="https://game-onds.github.io/gameon/">MY WEBSITE</a>
   * I ALSO ENJOY MY LIFE
-      * **FREEFIRE I'D** `Ameerka2724k`
+      
       * **XBOX MINECRAFT GAMETAG** `aryanxp308` 
 - 🔭 I’m currently working on [Game on DS/GAMEONDS](https://github.com/Game-onds/GameonDS)
 
