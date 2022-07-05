@@ -14,7 +14,7 @@
       * **XBOX MINECRAFT GAMETAG** `aryanxp308` 
 - 🔭 I’m currently working on [Game on DS/GAMEONDS](https://github.com/Game-onds/GameonDS)
 
-- 🌱 I’m currently learning **I don't know**
+- 🌱 I’m currently learning **C#** love it.
 
 - 👯 I’m looking to collaborate on [freefirebotweb/freefirebotweb](https://github.com/freefirebotweb/freefirebotweb)
 
