@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanxp308&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxp308" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanxp308" alt="aryanxp308" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aryanxp308" target="blank"><img src="https://img.shields.io/twitter/follow/aryanxp308?logo=twitter&style=for-the-badge" alt="aryanxp308" /></a> </p>
 
 - I AM ARYAN FROM INDIA AND DOING CODING FOR MY PART TIME I START DOING CODING SINCE 2021. I MAKE WEBSITE FOR PEOPLE AND ALSO I AM MAKING MY OWN WEBSITE WHICH WILL CARRY `GAMING`, `CHAT`, `STREMING` RELATED TOPICS YOU CAN ALSO SEE THE INCOMPLETE FACE OF MY WEBSITE AND ALSO CAN SIGN IN BUT AFTER SOMETIME DATABASE WILL FORGET YOU.BY THE WAY YOU CAN FOLLOW MY SOCIAL MEDIA I'D
