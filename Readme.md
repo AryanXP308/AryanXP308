@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in [New Way Corporation](https://github.com/New-way-corporation)
 
-- 🌱 I’m currently learning **Flask, .NET, Android.**
+- 🌱 I’m currently learning **Flask, C#, Java.**
 
 - 💬 Ask me about **Python, Ruby, Javascript**
 
